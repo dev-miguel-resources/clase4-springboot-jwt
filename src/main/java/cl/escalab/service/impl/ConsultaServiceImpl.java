@@ -107,7 +107,7 @@ public class ConsultaServiceImpl implements IConsultaService{
 		byte[] data = null;
 		
 		//HashMap<String, String> params = new HashMap<String, String>();
-		//params.put("txt_empresa", "MitoCode Network");
+		//params.put("txt_empresa", "Escalab Network");
 		
 		try {
 			File file = new ClassPathResource("/reports/consultas.jasper").getFile();

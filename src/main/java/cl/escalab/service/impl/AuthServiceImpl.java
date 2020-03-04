@@ -14,6 +14,7 @@ public class AuthServiceImpl {
 		String metodoRol = "";
 		
 		switch (path) {
+		
 		case "listar":
 				metodoRol = "ADMIN";
 			break;
